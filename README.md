@@ -1,52 +1,178 @@
-# roshanahtina.github.io
-Personal WebSite
+# Hi there 👋, I'm Roshan Munavar
 
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 4 years.
+Experienced Linux Engineer with 9+ years of expertise in Linux Administration, Cloud Infrastructure, Production Support, Automation, DevOps practices, and Bare Metal deployments. Passionate about building reliable infrastructure, automating repetitive tasks, and continuously learning new technologies.
 
 ---
 
 ## Skills
 
-<p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-</p>
+### Operating Systems
+- Red Hat Enterprise Linux (RHEL)
+- Rocky Linux
+- CentOS
+- Ubuntu
+
+### Cloud Platforms
+- IBM Cloud
+- Microsoft Azure
+- Amazon Web Services (AWS)
+
+### Configuration Management & Automation
+- Ansible
+- Chef
+- Bash Shell Scripting
+
+### DevOps & CI/CD
+- Jenkins
+- TeamCity
+- CruiseControl
+- Git
+- GitHub
+- Bitbucket
+
+### Linux Administration
+- LVM
+- NFS & AutoFS
+- SSH
+- DNS
+- TCP/IP Networking
+- RAID Configuration
+- Package Management
+- Systemd
+- Performance Tuning
+- Incident & Change Management
+
+### Virtualization
+- VMware vSphere
+- Citrix XenServer
+- Bare Metal Server Deployment
+
+### Monitoring & Logging
+- Nagios
+- Splunk
+- SolarWinds
+- Graylog
+- New Relic
+
+### Web & Database
+- Apache
+- Nginx
+- Tomcat
+- MySQL
 
 ---
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **Linux Engineer**
+### SNEX Technology Services Pvt. Ltd.
+**Jan 2024 – Present**
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+- Linux Administration and Production Support
+- Azure VM deployment using Ansible
+- Vulnerability Management & Patch Management
+- Bare Metal and VMware Host Deployment
+- Shell Script Automation
+- Incident & Change Management
+- On-call Production Support
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+---
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+### **Senior System Engineer**
+### IBM Cloud (via Abacus Staffing & Services)
+**Oct 2020 – Nov 2023**
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
+- IBM Cloud Infrastructure Operations
+- Bare Metal & VM Provisioning
+- Kickstart Automated Deployments
+- Chef & Ansible Configuration Management
+- Linux Migrations (CentOS to RHEL)
+- DNS, RAID, Network and Storage Administration
+- Hardware Lifecycle Management
+- L3/L4 Production Support
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+---
+
+### **Lead Product Development**
+### Harman Connected Services
+**Aug 2019 – Nov 2019**
+
+- AWS Infrastructure
+- SSL & Certificate Management
+- Apache & Tomcat Administration
+- Infrastructure Automation
+- CloudFormation
+- Python & Bash Automation
+
+---
+
+### **System Engineer**
+### Time Inc.
+**Jan 2015 – Jul 2016**
+
+- Linux Server Administration
+- Apache & MySQL Administration
+- DNS Management
+- AWS Migration
+- Package Management & Security Patching
+
+---
+
+### **Deployment / Linux System Engineer**
+### Sigma Infosolutions Ltd.
+**Mar 2011 – Jan 2015**
+
+- Linux Server Deployment
+- Apache, Tomcat & MySQL Administration
+- Nagios Monitoring
+- NFS, Samba & FTP Configuration
+- Shell Scripting
+- SSL Implementation
 
 ---
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+**Bachelor of Engineering (B.E.)**
+Electronics & Communication Engineering
+
+Jayam College of Engineering & Technology
 
 ---
 
-### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+## Interests
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+- Linux System Administration
+- Cloud Computing
+- Infrastructure Automation
+- DevOps & Open Source Technologies
+- Learning New Technologies
+- Surfing Technical Blogs & Documentation
+- Solving Real-world Infrastructure Challenges
+- Spending Quality Time with Family
+
+---
+
+## Certifications
+
+- RHCSA
+- RHCE
+- IBM Certified Professional Architect
+- IBM Certified Technical Advocate
+- IBM Certified Advocate
+- IBM Certified Advocate Plus
+- IBM Certified Professional Architect
+- IBM Certified Advanced Architect
+- IBM Cloud DevSecOps v1 Specialty
+- IBM Certified Associate SRE
+- IBM Certified Professional SRE
+- IBM Certified Professional SRE PLUS IBM Cloud for DevSecOps
+- IBM Cloud for VMware Specialty
+  And
+- Active subscriber on “A Cloud Guru (@Pluralsite)”
+
+---
+
+> *"Keep learning, automate everything possible, and build reliable infrastructure."*
