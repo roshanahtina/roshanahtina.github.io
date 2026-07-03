@@ -179,6 +179,7 @@ Jayam College of Engineering & Technology
 
 - RHCSA
 - RHCE
+- Microsoft Azure Fundamentals (AZ-900)
 - IBM Certified Professional Architect
 - IBM Certified Technical Advocate
 - IBM Certified Advocate
