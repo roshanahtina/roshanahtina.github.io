@@ -18,6 +18,7 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 - Rocky Linux
 - CentOS
 - Ubuntu
+
 <!--
 <p align="left">
   <img src="https://cdn.simpleicons.org/redhat" alt="Red Hat Enterprise Linux" width="40" height="40"/>
@@ -31,6 +32,7 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 - IBM Cloud
 - Microsoft Azure
 - Amazon Web Services (AWS)
+
 <!--
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="45" height="45"/>
