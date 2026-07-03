@@ -2,19 +2,30 @@
 
 ## Portfolio
 
-Experienced Linux Engineer with 9+ years of expertise in Linux Administration, Cloud Infrastructure, Production Support, Automation, DevOps practices, and Bare Metal deployments. Passionate about building reliable infrastructure, automating repetitive tasks, and continuously learning new technologies.
+Experienced Linux Engineer with 10+ years of expertise in Linux Administration, Cloud Infrastructure, Production Support, Automation, DevOps practices, and Bare Metal deployments. Passionate about building reliable infrastructure, automating repetitive tasks, and continuously learning new technologies.
 
 ---
 
 ## Skills
 
 ### Operating Systems
+<p align="left">
+  <img src="https://cdn.simpleicons.org/redhat" alt="Red Hat Enterprise Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/rockylinux" alt="Rocky Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/centos" alt="CentOS" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
+</p>
 - Red Hat Enterprise Linux (RHEL)
 - Rocky Linux
 - CentOS
 - Ubuntu
 
 ### Cloud Platforms
+<p align="left">
+  <img src="https://cdn.simpleicons.org/ibm" alt="IBM Cloud" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/microsoftazure" alt="Microsoft Azure" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" alt="Amazon Web Services" width="40" height="40"/>
+</p>
 - IBM Cloud
 - Microsoft Azure
 - Amazon Web Services (AWS)
