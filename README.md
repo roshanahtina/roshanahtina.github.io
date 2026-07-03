@@ -12,17 +12,6 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
   <img src="./skills.png" alt="Skills" width="900">
 </p>
 
-### Operating Systems
-- Red Hat Enterprise Linux (RHEL)
-- Rocky Linux
-- CentOS
-- Ubuntu
-
-### Cloud Platforms
-- IBM Cloud
-- Microsoft Azure
-- Amazon Web Services (AWS)
-
 ### Configuration Management & Automation
 - Ansible
 - Chef
