@@ -7,10 +7,11 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 ---
 
 ## Skills
-
+<!--
 <p align="center">
   <img src="./skills.png" alt="Skills" width="900">
 </p>
+-->
 
 ### Operating Systems
 - Red Hat Enterprise Linux (RHEL)
