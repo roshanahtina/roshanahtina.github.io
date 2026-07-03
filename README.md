@@ -189,7 +189,7 @@ Jayam College of Engineering & Technology
 - IBM Certified Professional SRE PLUS IBM Cloud for DevSecOps
 - IBM Cloud for VMware Specialty
   And
-- Active subscriber on “A Cloud Guru (@Pluralsite)”
+- Active subscriber on “A Cloud Guru (@PluralSight)”
 
 ---
 
