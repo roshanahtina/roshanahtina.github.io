@@ -32,9 +32,9 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 - Amazon Web Services (AWS)
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/ibm" alt="IBM Cloud" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure" alt="Microsoft Azure" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/amazonaws" alt="Amazon Web Services" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="45" height="45"/>
 </p>
 
 ### Configuration Management & Automation
