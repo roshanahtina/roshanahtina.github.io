@@ -18,24 +18,26 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 - Rocky Linux
 - CentOS
 - Ubuntu
-
+<!--
 <p align="left">
   <img src="https://cdn.simpleicons.org/redhat" alt="Red Hat Enterprise Linux" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/rockylinux" alt="Rocky Linux" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/centos" alt="CentOS" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
 </p>
+-->
 
 ### Cloud Platforms
 - IBM Cloud
 - Microsoft Azure
 - Amazon Web Services (AWS)
-
+<!--
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="45" height="45"/>
 </p>
+-->
 
 ### Configuration Management & Automation
 - Ansible
