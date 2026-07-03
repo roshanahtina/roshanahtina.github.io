@@ -101,7 +101,8 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 ---
 
 ### **Senior System Engineer**
-### IBM Cloud (via Abacus Staffing & Services)
+### IBM Cloud
+<!-- (via Abacus Staffing & Services) -->
 <!-- **Oct 2020 – Nov 2023** -->
 
 - IBM Cloud Infrastructure Operations
