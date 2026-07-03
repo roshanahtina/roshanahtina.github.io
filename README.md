@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Roshan Munavar
-
 ## Portfolio
 
 Experienced Linux Engineer with 10+ years of expertise in Linux Administration, Cloud Infrastructure, Production Support, Automation, DevOps practices, and Bare Metal deployments. Passionate about building reliable infrastructure, automating repetitive tasks, and continuously learning new technologies.
