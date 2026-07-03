@@ -88,7 +88,7 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 
 ### **Linux Engineer**
 ### SNEX Technology Services Pvt. Ltd.
-**Jan 2024 – Present**
+<!-- **Jan 2024 – Present** -->
 
 - Linux Administration and Production Support
 - Azure VM deployment using Ansible
@@ -102,7 +102,7 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 
 ### **Senior System Engineer**
 ### IBM Cloud (via Abacus Staffing & Services)
-**Oct 2020 – Nov 2023**
+<!-- **Oct 2020 – Nov 2023** -->
 
 - IBM Cloud Infrastructure Operations
 - Bare Metal & VM Provisioning
@@ -117,7 +117,7 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 
 ### **Lead Product Development**
 ### Harman Connected Services
-**Aug 2019 – Nov 2019**
+<!-- **Aug 2019 – Nov 2019** -->
 
 - AWS Infrastructure
 - SSL & Certificate Management
@@ -130,7 +130,7 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 
 ### **System Engineer**
 ### Time Inc.
-**Jan 2015 – Jul 2016**
+<!-- **Jan 2015 – Jul 2016** -->
 
 - Linux Server Administration
 - Apache & MySQL Administration
@@ -142,7 +142,7 @@ Experienced Linux Engineer with 10+ years of expertise in Linux Administration, 
 
 ### **Deployment / Linux System Engineer**
 ### Sigma Infosolutions Ltd.
-**Mar 2011 – Jan 2015**
+<!-- **Mar 2011 – Jan 2015** -->
 
 - Linux Server Deployment
 - Apache, Tomcat & MySQL Administration
