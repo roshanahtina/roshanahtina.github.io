@@ -1,0 +1,11 @@
+title: Roshan Munavar # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Linux Engineer
+  <br><br>
+  <a href="mailto:roshan.ahtina@gmail.com">roshan.ahtina@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/roshan-munavar/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/roshanahtina/">Gihub</a> 
+theme: jekyll-theme-minimal
